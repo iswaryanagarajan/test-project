@@ -1,0 +1,30 @@
+In June month
+14/06/19.Airbux documentation - Tested the cms of the airbux and Tested app of the airbux(Given by swathi)
+17/06/19 CCC(Classic cupcakes)- Executed the use cases of CMS and app of the CCC and clarification raised for the doubts(Given by Alisha)
+18/06/19 and 19/06/19 Uhelp-Executed the use cases of CMS and app of the Uhelp and raised clarification(Given by Alisha)
+20/06/19 and 21/06/19 Rocamamas-Documents of Rocamamas gone through (Given by Alisha)
+24/06/19 Gone through the Rocamamas flow in IOS device.
+26/06/19 Retested the issues of CMS Uhelp given by Alisha and closed the issue.
+27/06/29 and 28/06/19 Gone through the Rocamamas flow in powerpoint.
+
+
+In July Month
+01/07/19	Muulla Documentation go throughing and Executed use cases of CMS and raised the issues to Alisha.
+03/07/19	Assigned 2 issues of CMS Mulla for Retesting by Richard Saville and 2 issues are closed. 
+03/07/19	Executing App Muulla use cases and reporting to Alisha and asked about not login mobile demo mulla 
+04/07/19	Issue raised for not login mobile demo muulla
+04/07/19	Testing the mobile demo muulla and reported issues
+08/07/19	completed Mobile demo muulla use cases
+09/07/19	Tested the Scenarios of Switch on benefits and writing use cases for switch on benefits
+10/07/19	Executed the use cases of the Chat Thai in CMS and reported the issues
+11/07/19	Tested the Chat Thai Application and verified added merchants and locations in CMS are published in the 			application and reported the issues in Jira."
+12/07/19	Tested Chat Thai mobile Application and reported the issues.
+15/07/19	Discussed the issues in Chat Thai Application and Gone Through the Rocomamas Application
+16/07/19	Call with Alisha and Katrina for clique application and rocamamas use cases verified	
+17/07/19	Rocamamas testing discussion for updation of use cases and Clique document go throughing
+18/07/19	Rocamamas Application tested in IOS device and reported the issues.
+19/07/19	Issues discussed for Rocamamas in IOS device and gone through Clique documents for testing
+22/07/19	Tested Rocamamas and clarification raised for payment gateway and QR code and use cases verified for CMS
+23/07/19	Tested Payment gateway for Rocamamas in IOS Device and reported issues for scanning  the QR code 
+24/07/19	Tested QR code in the IOS device for Rocamamas and tested Switch on benefits CMS application
+25/07/19	Tested the Switch on benefits application in 4 different Logins
